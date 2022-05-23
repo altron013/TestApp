@@ -207,6 +207,7 @@ class MainAdapter(private val itemClickListener: ItemClickListener) :
 //            }
         }
 
+
         override fun clear() {}
     }
 
