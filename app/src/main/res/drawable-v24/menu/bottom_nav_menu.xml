@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="главная"
+         />
+
+    <item
+        android:id="@+id/navigation_bank"
+        android:icon="@drawable/ic_subtract"
+        android:title="мой банк" />
+
+    <item
+        android:id="@+id/navigation_exchange"
+        android:icon="@drawable/ic_exchanges"
+        android:title="переводы" />
+    <item
+        android:id="@+id/navigation_payments"
+        android:icon="@drawable/ic_payments"
+        android:title="платежи" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_menu"
+        android:title="меню" />
+
+</menu>
